@@ -96,10 +96,15 @@ docker-compose up
 ## P.S. Если совсем не получается запустить, то вспользуйтесь командой, подставив свои значения
 ```
 clean spring-boot:run -Dspring.datasource.url=
--Dspring.datasource.username= -Dspring.datasource.password= -Dspring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+-Dspring.datasource.username=
+-Dspring.datasource.password=
+-Dspring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 -Dspring.jpa.properties.hibernate.show_sql=true
--Dflyway.user= -Dflyway.password= -Dflyway.schemas=public
+-Dflyway.user=
+-Dflyway.password=
+-Dflyway.schemas=public
 -Dflyway.url=
--Dflyway.locations=classpath:db/migration -Dbot.name=
+-Dflyway.locations=classpath:db/migration
+-Dbot.name=
 -Dbot.token=
 ```
