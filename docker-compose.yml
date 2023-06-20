@@ -1,0 +1,28 @@
+version: '3'
+services:
+  echo-bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: echo-bot
+    ports:
+      - 8080:8080
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/Echo
+      - SPRING_DATASOURCE_USERNAME=postgres
+      - SPRING_DATASOURCE_PASSWORD=iskander12345671
+      - FLYWAY_USER=postgres
+      - FLYWAY_PASSWORD=iskander12345671
+      - FLYWAY_SCHEMAS=public
+      - FLYWAY_URL=jdbc:postgresql://db:5432/Echo
+      - BOT_NAME=
+      - BOT_TOKEN=
+    depends_on:
+      - db
+  db:
+    image: postgres
+    container_name: echo-db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=iskander12345671
+      - POSTGRES_DB=Echo
