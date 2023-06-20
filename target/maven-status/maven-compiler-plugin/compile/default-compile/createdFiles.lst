@@ -1,0 +1,17 @@
+iskander/tabaev/echobottg/EchoBotPolling.class
+iskander/tabaev/echobottg/controllers/WebHookController.class
+iskander/tabaev/echobottg/controllers/DelayController.class
+iskander/tabaev/echobottg/EchoBotWebHook$sendEchoMessageTask.class
+iskander/tabaev/echobottg/controllers/MessageController.class
+iskander/tabaev/echobottg/models/EchoUser.class
+iskander/tabaev/echobottg/EchoBotPolling$sendEchoMessageTask.class
+iskander/tabaev/echobottg/dto/LastUserMessage.class
+iskander/tabaev/echobottg/config/TelegramConfig.class
+iskander/tabaev/echobottg/dto/DelayRequest.class
+iskander/tabaev/echobottg/config/OpenApiConfiguration.class
+iskander/tabaev/echobottg/services/BotService.class
+iskander/tabaev/echobottg/EchoBotTgApplication.class
+iskander/tabaev/echobottg/repository/EchoUserMessageRepository.class
+iskander/tabaev/echobottg/repository/EchoUserRepository.class
+iskander/tabaev/echobottg/EchoBotWebHook.class
+iskander/tabaev/echobottg/models/EchoUserMessage.class

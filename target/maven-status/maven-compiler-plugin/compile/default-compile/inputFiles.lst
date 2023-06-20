@@ -1,0 +1,15 @@
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/models/EchoUser.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/EchoBotPolling.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/config/OpenApiConfiguration.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/EchoBotWebHook.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/models/EchoUserMessage.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/config/TelegramConfig.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/controllers/WebHookController.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/EchoBotTgApplication.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/services/BotService.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/repository/EchoUserMessageRepository.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/dto/DelayRequest.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/controllers/MessageController.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/repository/EchoUserRepository.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/controllers/DelayController.java
+/home/iskander/IdeaProjects/Учебные проекты/echo-bot-tg/src/main/java/iskander/tabaev/echobottg/dto/LastUserMessage.java
